@@ -137,6 +137,9 @@ footer {
     .section2 {
         width: 50%;
     }
+    .section2 h1 {
+        font-size: 34px;
+    }
     .section2 button {
         margin-top: 40px;
     }
